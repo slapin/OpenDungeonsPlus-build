@@ -1,0 +1,4 @@
+[submodule "OpenDungeonsPlus"]
+	path = OpenDungeonsPlus
+	url = https://github.com/slapin/OpenDungeonsPlus
+	branch = ogre-v14.6-v3
